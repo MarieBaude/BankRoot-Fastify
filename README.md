@@ -8,7 +8,7 @@
 ## Contexte
 Vous êtes développeur junior au sein du service informatique d’une enseigne bancaire nommée Bank Root.
 Le coeur de cible de cette banque était jusqu’à maintenant de proposer des services bancaires sur site.
-Elle souhaite maintenant diversifier sa clientèle, entrer de plein pied dans l’ère du numérique ( kek …) et (ENFIN) proposer à ses usagers un service bancaire en ligne renouvelé afin d’attirer de nouveaux utilisateurs et moderniser son offre.
+Elle souhaite maintenant diversifier sa clientèle, entrer de plein pied dans l’ère du numérique et proposer à ses usagers un service bancaire en ligne renouvelé afin d’attirer de nouveaux utilisateurs et moderniser son offre.
 La mission de votre équipe est de concevoir une application qui permet à votre employeur la gestion de ses comptes bancaires en ligne dans un premier temps et dans un second temps de proposer des services de gestion bancaire à vos clients (dépôts, virements, etc …).
 
 ## Critères de performance
@@ -35,7 +35,7 @@ Optionnel :
 - Pour chaque compte le client peut via un formulaire faire un dépôt d’argent
 - Option : Le crédit est validé par un admin
 
-## Install
+## Installation
 
 ```sh
 cd back-end
@@ -44,13 +44,15 @@ npx prisma migrate dev --name init
 npm run dev
 ```
 
-## Author
+## Auteur
 
 👤 **Hamid Berkaine**
 * Github: [@IdurarDev](https://github.com/IdurarDev)
 
 👤 **Marie Baude**
 * Github: [@MarieBaude](https://github.com/MarieBaude)
+
+## Aide
 
 
 ***
