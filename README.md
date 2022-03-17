@@ -52,7 +52,9 @@ npm run dev
 👤 **Marie Baude**
 * Github: [@MarieBaude](https://github.com/MarieBaude)
 
-## Aide
+## Contributeur
+👤 **Xavier Plein**
+* Github: [@plx-edu](https://github.com/plx-edu)
 
 
 ***
