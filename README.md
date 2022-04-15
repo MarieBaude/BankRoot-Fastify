@@ -35,7 +35,7 @@ Optionnel :
 - Pour chaque compte le client peut via un formulaire faire un dépôt d’argent
 - Option : Le crédit est validé par un admin
 
-## Install
+## Installation
 
 ```sh
 cd back-end
@@ -44,13 +44,17 @@ npx prisma migrate dev --name init
 npm run dev
 ```
 
-## Author
-
+## Auteur
 👤 **Hamid Berkaine**
 * Github: [@IdurarDev](https://github.com/IdurarDev)
 
 👤 **Marie Baude**
 * Github: [@MarieBaude](https://github.com/MarieBaude)
+
+
+## Contributeur
+👤 **Xavier Plein**
+* Github: [@plx-edu](https://github.com/plx-edu)
 
 
 ***
