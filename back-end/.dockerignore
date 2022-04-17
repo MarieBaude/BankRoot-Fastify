@@ -1,0 +1,12 @@
+# compiled app
+dist
+.DS_Store
+
+# Dependency directories
+node_modules
+
+# vscode
+.vscode
+
+# .env file
+.env
